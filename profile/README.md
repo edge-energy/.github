@@ -24,4 +24,4 @@ Our approach combines advanced hardware sensors with intelligent analytics to id
 
 ---
 
-© Energy Quotient™. All trademarks belong to their respective owners.
+© 2022–2025 Renewable Edge LLC dba Energy Quotient™. All rights reserved.
