@@ -1,6 +1,8 @@
 # Energy Quotient™
 
-![Energy Quotient Logo](energy-quotient-logo.svg)
+<a href="https://eq.systems">
+  <img src="energy-quotient-logo.svg" alt="Energy Quotient Logo" width="280" />
+</a>
 
 ## Energy and power quality intelligence
 
