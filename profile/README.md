@@ -12,6 +12,6 @@
 
 This organization is transitioning to our new GitHub presence at [Energy-Quotient](https://github.com/Energy-Quotient), where active development and future releases will be hosted.
 
-> Thank you for your interest and support.
+Thank you for your interest and support.
 
 © 2025 Renewable Edge LLC dba Energy Quotient™. All rights reserved.
